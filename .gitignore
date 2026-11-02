@@ -1,0 +1,7 @@
+*.mat
+*.set
+*.fdt
+*.rar
+*.asv
+results/
+data/*
